@@ -1,5 +1,5 @@
 # .gitattributes
 *.md linguist-documentation
-*.txt linguist-documentation
-*.log linguist-documentation
-/excluded-folder/** linguist-vendored
+/Quantum-computing-TD1/** linguist-vendored
+/Quantum-computing-TD2/** linguist-vendored
+/Quantum-computing-TD3/** linguist-vendored
