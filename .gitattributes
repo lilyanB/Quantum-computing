@@ -1,0 +1,5 @@
+# .gitattributes
+*.md linguist-documentation
+*.txt linguist-documentation
+*.log linguist-documentation
+/excluded-folder/** linguist-vendored
